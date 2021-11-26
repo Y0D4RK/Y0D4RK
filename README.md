@@ -2,8 +2,7 @@
 
 ## Gauthier Co.
 
-💫 I'm a french guy, developer & passionate by the WWWW 💫
-🇫🇷 I live in France
+💫 I'm a french guy, developer & passionate by the WWW 💫
 
 **About me**
 
