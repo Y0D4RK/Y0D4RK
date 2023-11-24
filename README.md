@@ -22,6 +22,7 @@
 <code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/71a6d8ae-1c68-46e8-a0af-73a563dc3a3a" title="react"></code>
 <code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/77812b1c-d685-4aef-b119-e9a38b8e6504" title="typescript"></code>
 <code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/80492168-ca26-4ccf-8610-9a33d937b582" title="aws"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/1931c34c-5dd1-45fd-9e42-33933502314a" title="python"></code>
 
 <!--
 | <a href="https://github.com/Y0D4RK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Y0D4RK&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=buefy&hide_border=true" alt="Y0D4RK's github stats" /></a> | <a href="https://github.com/Y0D4RK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0D4RK&layout=compact&theme=buefy&hide_border=true" /></a> |
