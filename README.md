@@ -1,24 +1,27 @@
 ## Gauthier Co.
 
-🙋‍♂️ I'm a french guy, ops & web developer, passionate by the www 🕸️
+🙋‍♂️ I am an enthusiast developer and also a devops
 
 **About me**
 
-- 💻 Full-stack / Ops Engineer at [Hubvisory Source](https://hubvisory.com/hubvisory-source/)
+- 💻 Dev web & devops engineer at [Hubvisory Source](https://hubvisory.com/hubvisory-source/)
 
-- 📁 Former full-stack tech. lead developer at [Club Med](https://www.clubmed.fr/) (during 2 years 1 month)
+- 👷 Formerly fullstack lead developer on CMTA app at [Club Med](https://www.clubmed.fr/) (mission during more 2 years)
 
-- 🏗️ Currently I am looking for a mission as an Ops developer
+- 🏗️ I'm available to work for a new great project as devops
 
-- 🤍 I love writing script of all kinds, PHP, TS to optimize website and building fun experiments on the web
+- ⚡ I love developing, testing and deploying applications to give you fun experiences.
 
-**Languages and Tools:**
+**Using daily**
 
-<code style="background-color: transparent;"><img height="30" src="https://user-images.githubusercontent.com/16003465/143424697-88e00587-7a8c-45b0-9451-fad660e4d69c.png" alt="php"></code>
-<code style="background-color: transparent;"><img height="30" src="https://user-images.githubusercontent.com/16003465/143426783-77cd4ea7-a047-4f91-b857-b1c6971f3080.png" alt="typescript"></code>
-<code style="background-color: transparent;"><img height="30" src="https://user-images.githubusercontent.com/16003465/143425545-0527ca93-dedc-4198-9cfe-e843bc50fe7f.png" alt="docker"></code>
-<code style="background-color: transparent;"><img height="30" src="https://user-images.githubusercontent.com/16003465/143425949-8048169f-57e8-4f71-8a0f-1d25c253d364.png" alt="gnulinux"></code>
-<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/6f7bc5d5-bccc-489e-8431-2079efbcd7b3" alt="bash"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/518eac03-1248-4169-868b-94e2a30ccc1e" title="gnu/linux"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/cf0cd791-667e-4c52-b28c-353b4afa63fd" title="bash"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/efce5cb6-7d9f-4fb1-b327-d518bd21da62" title="docker"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/126bb2f4-8b56-4f30-8354-ff6c7b24729d" title="php"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/4a08229f-a66e-4fa3-87ae-2fceef13ae14" title="symfony"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/71a6d8ae-1c68-46e8-a0af-73a563dc3a3a" title="react"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/77812b1c-d685-4aef-b119-e9a38b8e6504" title="typescript"></code>
+<code style="background-color: transparent;"><img height="30" src="https://github.com/Y0D4RK/Y0D4RK/assets/16003465/80492168-ca26-4ccf-8610-9a33d937b582" title="aws"></code>
 
 <!--
 | <a href="https://github.com/Y0D4RK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Y0D4RK&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=buefy&hide_border=true" alt="Y0D4RK's github stats" /></a> | <a href="https://github.com/Y0D4RK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0D4RK&layout=compact&theme=buefy&hide_border=true" /></a> |
