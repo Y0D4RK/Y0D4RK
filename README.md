@@ -4,13 +4,16 @@
 
 **About me**
 
-- 💻 Dev web & devops engineer at [Obat](https://obat.fr)
+- 💻 Enthusiast dev web & devops engineer at [Obat](https://obat.fr)
 
-- 👷 Formerly fullstack lead developer on CMTA app at [Club Med](https://www.clubmed.fr/) (mission during more 2 years)
+- 👷 Formerly lead tech and devops on CMTA app at [Club Med](https://www.clubmed.fr/) (mission during more 2 years)
 
 - 🏗️ I'm available to work for a new great project as devops
 
 - ⚡ I love developing, testing and deploying applications to give you fun experiences.
+
+- ✨ Curious about AI
+
 
 **Using daily**
 
